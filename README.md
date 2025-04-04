@@ -1,22 +1,22 @@
-# 🐍 Snake Game - Proyecto en Desarrollo 🎮  
+# 🐍 Snake Game - Work in Progress 🎮  
 
-> Este repositorio contiene el código de un juego de la serpiente hecho en Python. **El proyecto aún está en desarrollo**, por lo que habrá mejoras y nuevas características en futuras actualizaciones. 🚀  
+> This repository contains the code for a **classic Snake Game** implemented in Python. **This project is still in development**, so expect improvements and new features in future updates. 🚀  
 
-## 🚀 Estado del Proyecto  
-✅ **Versión actual:** Primera versión funcional.  
-⚠ **Estado:** En desarrollo (work in progress).  
-🔜 **Mejoras planeadas:** Nueva mecánica de juego, integración de niveles y mejoras visuales.  
+## 🚀 **Project Status**  
+✅ **Current version:** First functional build.  
+⚠ **Status:** Work in progress.  
+🔜 **Upcoming improvements:** Better graphics, new mechanics, and level-based gameplay.  
 
-## 🎮 Descripción del Juego  
-Un clásico **Snake Game** implementado en Python usando la librería `turtle`. El jugador controla una serpiente que debe comer para crecer sin chocar consigo misma ni con los bordes.  
+## 🎮 **Game Description**  
+This is a **Python implementation** of the classic **Snake Game**, built using the `turtle` module. The player controls a snake that grows by eating food while avoiding collisions with itself and the screen borders.  
 
-### **🛠️ Tecnologías Utilizadas**  
-- **Python** (Versión 3.x)  
-- **Turtle** (Para gráficos básicos)  
-- **GitHub** (Para control de versiones y colaboración)  
+### **🛠️ Technologies Used**  
+- **Python** (Version 3.x)  
+- **Turtle** (Basic graphics)  
+- **GitHub** (Version control & collaboration)  
 
-### **📖 Instalación y Uso**  
-1️⃣ **Clona el repositorio** en tu computadora:  
+### **📖 Installation & Usage**  
+1️⃣ **Clone this repository:**  
    ```bash
    git clone https://github.com/kimMarmol/snake-game-python.git
    cd snake-game-python
